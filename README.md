@@ -13,7 +13,8 @@ The accompanying research paper delves into the use of neural networks in financ
 #### LSTM + CNN.ipynb - Implementation combining Long Short-Term Memory networks and CNNs.
 #### MNN.ipynb - Modular Neural Networks application in American options pricing.
 #### CONTRIBUTORS.md - A file listing the contributors to this project.
-#### How to Use
+
+### How to Use
 Clone the repository to get a local copy.
 Ensure you have the necessary dependencies installed, as outlined in each Jupyter notebook.
 Run the notebooks to understand the implementation details and experiment with the models.
