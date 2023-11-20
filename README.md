@@ -7,7 +7,7 @@ The accompanying research paper delves into the use of neural networks in financ
 
 ### Repository Structure
 #### American Options Pricing Using Neural Networks.pdf - The research paper detailing the study and its findings.
-#### Barone-Adesi and Whaley Approximation and FNN.ipynb - Jupyter notebook implementing the Barone-Adesi and Whaley model and implementation of the Feedforward Nueral Networks.
+#### Barone-Adesi and Whaley Approximation and FNN.ipynb - Jupyter notebook implementing the Barone-Adesi and Whaley model and implementation of the Feedforward Neural Networks.
 #### Data Exploration.ipynb - Notebook for initial data analysis and exploration.
 #### Data Preprocessing.ipynb - Details the data preprocessing steps used in the models.
 #### LSTM + CNN.ipynb - Implementation combining Long Short-Term Memory networks and CNNs.
