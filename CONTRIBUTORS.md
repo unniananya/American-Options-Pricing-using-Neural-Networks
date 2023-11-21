@@ -3,5 +3,5 @@
 
 ## List of Contributors
 - **Ananya Balehithlu** 
-- **Ananya Unnikrishnan**
-- **Roshan Thapa**
+- **Ananya Unnikrishnan** unniananya
+- **Roshan Thapa** rovereign455@gmail.com
